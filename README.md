@@ -8,4 +8,4 @@ are detected. Ensuring the safety and well-being of expecting mothers, it is a d
 
 # Check out the video on youtube: https://youtu.be/8MqNrrLKPt8?si=wgdAxupaq7z9d0ar
 
-# Poster:![Poster Presentation](https://github.com/Santona00/IDP-Project-Jononi/blob/main/Poster.jpg)
+# ![Poster Presentation](https://github.com/Santona00/IDP-Project-Jononi/blob/main/Poster.jpg)
